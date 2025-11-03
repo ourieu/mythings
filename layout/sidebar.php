@@ -27,7 +27,7 @@
                with font-awesome or any other icon font library -->
           <li class="nav-item">
             <a href="#" class="nav-link">
-              <i class="fas-solid fa-face-smile"></i>
+              <i class="nav-icon fas fa-copy"></i>
               <p>
                 My hobby
                 <i class="fas fa-angle-left right"></i>

@@ -24,5 +24,5 @@
   <link rel="stylesheet" href="AdminLTE-3.2.0/plugins/daterangepicker/daterangepicker.css">
   <!-- summernote -->
   <link rel="stylesheet" href="AdminLTE-3.2.0/plugins/summernote/summernote-bs4.min.css">
-  <link rel="stylesheet" href="movies.css">
+  <link rel="stylesheet" href="css/movies.css">
 </head>
