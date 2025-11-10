@@ -41,7 +41,7 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a href="AdminLTE-3.2.0/pages/layout/top-nav-sidebar.html" class="nav-link">
+                <a href="music.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Music</p>
                 </a>
